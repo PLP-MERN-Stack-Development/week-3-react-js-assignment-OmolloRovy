@@ -42,4 +42,4 @@ yarn install
 npm start
 ```
 
-The siteis depl0yed at  http://localhost:3000.
+The siteis deployed at  http://localhost:3000.
