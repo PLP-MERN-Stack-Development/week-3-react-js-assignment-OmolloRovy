@@ -42,4 +42,4 @@ yarn install
 npm start
 ```
 
-The siteis deployed at  http://localhost:3000.
+The siteis deployed at  (https://week-3-react-js-git-main-vanistelrooy-masime-s-projects.vercel.app).
