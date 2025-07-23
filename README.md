@@ -33,18 +33,14 @@ or with yarn:
 ```
 
 
-Copy
-Edit
+```bash
 yarn install
 Start the development server:
+```
 
+```
 bash
-Copy
-Edit
 npm start
-or
+```
 
-```
-yarn 
-```
-Open your browser and navigate to http://localhost:3000.
+The siteis depl0yed at  http://localhost:3000.
