@@ -19,7 +19,7 @@ This is a React application that demonstrates a simple Task Manager component, a
 
 ## Setup & Installation
 
-1. Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
@@ -29,15 +29,14 @@ Install dependencies:
 
 ```bash
 npm install
-or with yarn:
+
 ```
-
-
+## or with yarn:
 ```bash
 yarn install
-Start the development server:
-```
 
+```
+## Start the development server:
 ```
 bash
 npm start
